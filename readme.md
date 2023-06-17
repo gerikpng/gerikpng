@@ -6,7 +6,7 @@ src="https://github.com/gerikpng/gerikpng/raw/main/banner.png">
 	<span align="left">
 		Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">, I'm Erik Pereira Martins.
 	</span>
-	<img src="https://komarev.com/ghpvc/?username=devmatheusguerra&color=blueviolet" align="right">
+	<img src="https://komarev.com/ghpvc/?username=gerikpng&color=blueviolet" align="right">
 </caption>
 </figure>
 
