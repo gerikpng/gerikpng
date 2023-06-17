@@ -26,7 +26,7 @@ src="https://github.com/gerikpng/gerikpng/raw/main/banner.png">
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
-
+<!--
 <h5> 
 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAXJJREFUaEPtme1NQzEMRW8ngQ26AmzQEcoIbNANYAMYgRG6SdkEZOkFhSix4o+EPOH3q1Kfk3N8nahSD9j5c9g5P0LgrxOMBFZO4KuAWzItDioEZoxXJDCjy9wekUAkYOxAjJCxgebyPSTwAODaMl1d4AzgDcA7gKeaxMoCCT5xVyVWFSjhk8RjOU4zBAjmZSN43saBO7wteBohSuHXM1qgBlMF2ahE8FQzUqAFQ/vWJMTwIwU4+DQCuYQKfpRAD3wuQZ/pqiwfbtR+3vUeIa6TLdDage6C906gZwx60umG9xTogU+dlh5u9veSxwhJ4DkJUefTQlYBDXwu8Zrd/x9sqxtfWgTuAdy0t4cGtlZjEaD1ygRUY2CRsQrkEtPhPW8hGqdPSye1tR4JaPd2qQsBlzYaFvlXCRj65FJabbYkARcKwyJiAboW7wwbepeKBU4ALgCO3iTK9cQCyn3mli35x52kBSEg6daIdyOBEV2VrPkNtstYMUGSxYkAAAAASUVORK5CYII=" width="15px"/> Github Metrics
 </h5>
@@ -35,7 +35,7 @@ src="https://github.com/gerikpng/gerikpng/raw/main/banner.png">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=devmatheusguerra&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmatheusguerra&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
-
+-->
 <h5>
 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAA8tJREFUaEPtmY2RTUEQhc9GgAgQASJABIgAESACRIAIEAEiQASIABEgAuqruqN6z+uZ2/e+n7Vqu+rVq3137kyf/jnT3XukUy5Hp1x/nQE4aQ/u0gNXJd2SxPel6Tvi+yzpm6QPkj5K4u+tZVsAKPpA0u1J6SUKAeatpBcTsCXv/l27FsB5SY8lPVx16uZLzyU9lfRz6X5rAGDtl5IAsUtB+fuTV8r7LgXwbIHV302hhTKvJN0taoU3HhXXlmkUa2N1rO/ya3L9xfCA38iPFhK8T9LGNTzDgOeSPQEMiNmQqnrgTUd5EpDDPpkSHI4lo9yQ9N5+uybp3kQEjoN9CamhVACgCEwT5ct0MFb1598HjASFXg8bYQCIAOpF4St2TnveBTEHgJDB+q481mzu/WEJjdVQJhP3AntcnvYizADoIO6MEnsEgA2/mnJYPirvAD32MxDuhQg4AxFBbuw3AuDMkSnna2ZdPoUehNCEMCQXmgCCSy4md3ffHgAYBOtHyRLTw+fmFAajxENB3osCgFhakBdQdhRCDWDHpAegkpgknrPPXE61wykhqJuaZMZB2Ui73NRPqgCwPl5okiUm9BdDIV5cIw/wzN/NQsTXAAgvzHqgaln3UmqhDhI/g+oUcnD5bT94qKU3MW6iUGvS23zEJnMe4HlUDqa5kLzkZ2yEWhazHp89y/rmlQSOOpK0kfMB4KWDG3MjTDMAJCYubtJTzBkoZYmBKyoG8IvPKTcNIY+7Sjgccs0xo2ceOAOwZ3f8/x5wduglsd+Uh0hiislIMGkSH4pGKyy2ikZP4iIjbTJCWXWRVUsJB7qklHB+73Vxq0oJrOHxve9iLisEvZhLQVbL6awSdE/16pmMVSvltFfEi8rpakOD0rFz2qgWO3fCXGhs3dBwrreLWW9asaRj8D7aQwPjUY/Fyd/ilpJDs96UO4J7oVWNpabDEDAbirV/VI4zeR65fjgomGsBs7FKBJH1t6OyOgvNFnaZ8mBfPVZphssGW4CAmfj2UIO7AZGJr23NEh6hiT92y06j9+EEfM4DTYnecBZwKOHDr8wL2WiRDovGPVPy9dQ7D2vDKgDci7LZhDkOcNth0C6hEZ+RmHFQwFqeZ2N6lAfUzoa7o3DqWSgmZxaGlfdmK/OqB+JGJDYhlY3FZw8cLIBtYDWouSxrADSKpRbyqXX5YFuIt9hvNmT8gLUA2j7ENLGKV+IUrQKECwxP8tkYGVY2YM22AOI5UCBMwwdgPianGWn/ZoVq/4l/s1YNtbd1u/TA3pQcbXwG4ETMHg79A37MAUDTHoJNAAAAAElFTkSuQmCC" width="15px"/> Social Media
 </h5>
